@@ -1,0 +1,16 @@
+{
+  "version": "1",
+  "templates": [
+    {
+      "type": 1,
+      "title": "Ubuntu",
+      "description": "Debian-based Linux OS",
+      "categories": ["operating-system"],
+      "platform": "linux",
+      "logo": "https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png",
+      "image": "ubuntu:latest",
+      "interactive": true,
+      "command": "/bin/bash"
+    }
+  ]
+}
