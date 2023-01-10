@@ -1,2 +1,2 @@
-# portainer.assets
-Portainer Assets
+# Portainer Assets
+The different assets used for within Portainer.
